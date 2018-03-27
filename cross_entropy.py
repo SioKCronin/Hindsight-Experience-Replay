@@ -2,7 +2,7 @@
 
 import numpy as np
 import gym
-import gym.spaces import Discrete, Box
+from gym.spaces import Discrete, Box
 
 class DeterministicDiscreteActionLinearPolicy(object):
 
@@ -82,15 +82,20 @@ theta_std = np.ones(dim_theta)
 # CEM!
 for iteration in range(n_iter):
     # Sample paramater vectors
-    thetas = [random init randoms of size theta]
+    thetas = [np.array([np.random.normal(m, s) for i in range(dim_theta)]) for m,s in zip(theta_mean, theta_std)]
     rewards = [noisy_evaluation(theta) for theta in thetas]
+    print("Rewards", rewards)
 
     # Get elite params
     n_elite = int(batch_size * elite_frac)
-    elite_inds = np.argsort(rewards)[batch_size - n_elite: batch_size]
+    elite_inds = np.argsort(rewards)[-n_elite:]
     elite_thetas = [thetas[i] for i in elite_inds]
 
     # Update theta_mean, theta_std
-    theta_mean = calc mean of elites
-    theta_std = calc std dev of elites
+    theta_mean = np.array([np.mean(elite_thetas)] * dim_theta)
+    theta_std = np.array([np.std(elite_thetas)] * dim_theta)
+    print(theta_std)
+
+    print("iterations %i. mean f: %8.3g. max f: %8.3g"%(iteration, np.mean(rewards), np.max(rewards)))
+    do_episode(make_policy(theta_mean), env, num_steps, render=True)
 
