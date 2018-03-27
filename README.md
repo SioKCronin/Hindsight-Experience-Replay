@@ -1,4 +1,4 @@
-# deepRL
+# Deep RL Baselines
 
 Implementations of Deep Reinforcement Learning algorithms
 
