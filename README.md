@@ -1,4 +1,4 @@
-# DeepRL Baselines
+# DeepRL Papers
 
 Implementations of Deep Reinforcement Learning algorithms
 
