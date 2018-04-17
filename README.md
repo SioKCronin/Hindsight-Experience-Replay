@@ -1,6 +1,6 @@
-# DeepRL Papers
+# DeepRL
 
-## Methods
+## Algorithms
 
 * Deep Q-Learning
 * Cross Entropy
