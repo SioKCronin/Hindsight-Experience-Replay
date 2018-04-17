@@ -4,12 +4,10 @@
 
 * Deep Q-Learning
 * Cross Entropy
-* Experience Replay
-
-## Policy optimization algorithms
-
+* Hindsight Experience Replay
 * Policy Gradients
 * Proximal Policy Optimization
+* Interpolated Policy Gradient
 * Trust-region policy optimization (TRPO) 
 * Asynchronous advantage actor-critic (A3C)
 
@@ -28,3 +26,4 @@
 * Brian Douglas' control [playlist](https://www.youtube.com/watch?v=oBc_BHxw78s&list=PLUMWjy5jgHK1NC52DXXrriwihVrYZKqjk)
 * Emma Brunskill's [talks](https://www.youtube.com/watch?v=fIKkhoI1kF4&list=PLAsrlO2SCuzBVqN6V1CQSL4VdaGv7LawW) at Simons Institute
 * [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
+* [Deep Detrministic Policy Gradients](http://pemami4911.github.io/blog/2016/08/21/ddpg-rl.html)
