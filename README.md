@@ -1,6 +1,6 @@
 # HER Variations
 
-My goal is to explore combinations of HER with other RL algorithms. 
+OpenAI's Mar 2018 request for research highlighted the research trajectory of combining HER with other advances in RL. The goal of HER Variations is to explore these possibilities. 
 
 ## Combinations
 
