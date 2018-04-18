@@ -6,6 +6,7 @@
 * Cross Entropy
 * Hindsight Experience Replay (HER)
 * Policy Gradients
+* Evolved Policy Gradients: https://github.com/openai/EPG
 * Proximal Policy Optimization
 
 ## Possible research directions
