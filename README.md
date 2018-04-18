@@ -6,10 +6,10 @@ Requires baselines, which can be installed here: https://github.com/openai/basel
 
 ## Combinations
 
-* Deep Q-Learning with HER (DQN-HER) 
-* Cross Entropy with (CE-HER)
-* Deep Deterministic Policy Gradients with (DDPG-HER) 
-* Proximal Policy Optimization with (PPO-HER)
+* Deep Q-Learning with HER (HER-DQN) 
+* Cross Entropy with HER (HER-CE)
+* Deep Deterministic Policy Gradients with HER (HER-DDPG) 
+* Proximal Policy Optimization with HER (HER-PPO)
 
 ## Resources
 
