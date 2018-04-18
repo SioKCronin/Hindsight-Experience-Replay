@@ -7,9 +7,10 @@ Requires baselines, which can be installed here: https://github.com/openai/basel
 ## Combinations
 
 * Deep Q-Learning with HER (HER-DQN) 
-* Cross Entropy with HER (HER-CE)
+* Sequential Deep Q-Leanring with HER (HER-SDQN)
 * Deep Deterministic Policy Gradients with HER (HER-DDPG) 
 * Proximal Policy Optimization with HER (HER-PPO)
+* Normalized Advantage Functions with HER (HER-NAF)
 
 ## Resources
 
