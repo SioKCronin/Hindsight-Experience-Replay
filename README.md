@@ -4,10 +4,10 @@ OpenAI's Mar 2018 request for research highlighted the research trajectory of co
 
 ## Combinations
 
-* Deep Q-Learning with HER
-* Cross Entropy with HER
-* Policy Gradients with HER 
-* Proximal Policy Optimization with HER
+* Deep Q-Learning with HER (DQN-HER) 
+* Cross Entropy with (CE-HER)
+* Deep Deterministic Policy Gradients with (DDPG-HER) 
+* Proximal Policy Optimization with (PPO-HER)
 
 ## Resources
 
