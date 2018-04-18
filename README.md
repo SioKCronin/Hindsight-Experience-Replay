@@ -4,7 +4,7 @@
 
 * Deep Q-Learning
 * Cross Entropy
-* Hindsight Experience Replay
+* Hindsight Experience Replay (HER)
 * Policy Gradients
 * Proximal Policy Optimization
 * Interpolated Policy Gradient
