@@ -1,13 +1,15 @@
-# DeepRL
+# HER Variations
 
-## Algorithms
+## Hindsight Experience Replay (HER) applications
 
-* Deep Q-Learning
-* Cross Entropy
-* Hindsight Experience Replay (HER)
-* Policy Gradients
-* Evolved Policy Gradients: https://github.com/openai/EPG
-* Proximal Policy Optimization
+My goal is to explore combinations of HER with other RL algorithms. 
+
+## Combinations
+
+* Deep Q-Learning with HER
+* Cross Entropy with HER
+* Policy Gradients with HER 
+* Proximal Policy Optimization with HER
 
 ## Possible research directions
 
