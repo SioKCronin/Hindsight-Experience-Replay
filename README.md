@@ -11,6 +11,7 @@ OpenAI's Mar 2018 request for research highlighted the research trajectory of co
 
 ## Resources
 
+* [Great intro article](https://becominghuman.ai/learning-from-mistakes-with-hindsight-experience-replay-547fce2b3305)
 * https://github.com/junhyukoh/deep-reinforcement-learning-papers
 * Reinforcement Learning (Sutton & Barto) - nice introduction to dynamic programming
 * [Differential Dynamic Programming for Optimal Estimation](https://www.cc.gatech.edu/~dellaert/pubs/Kobilarov15icra.pdf) - helpful article
