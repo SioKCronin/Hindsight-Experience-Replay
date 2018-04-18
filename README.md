@@ -1,7 +1,5 @@
 # HER Variations
 
-## Hindsight Experience Replay (HER) applications
-
 My goal is to explore combinations of HER with other RL algorithms. 
 
 ## Combinations
