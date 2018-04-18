@@ -7,9 +7,6 @@
 * Hindsight Experience Replay (HER)
 * Policy Gradients
 * Proximal Policy Optimization
-* Interpolated Policy Gradient
-* Trust-region policy optimization (TRPO) 
-* Asynchronous advantage actor-critic (A3C)
 
 ## Possible research directions
 
