@@ -6,10 +6,10 @@ Requires baselines, which can be installed here: https://github.com/openai/basel
 
 ## TODO
 
-- [ ]Combine PPO with experience replay
-- [ ]Add IPG
-- [ ]Build HER roadmap based on paper
-- [ ]Extend to hindsight experience replay
+- [ ] Combine PPO with experience replay
+- [ ] Add IPG
+- [ ] Build HER roadmap based on paper
+- [ ] Extend to hindsight experience replay
 
 ## Resources
 
