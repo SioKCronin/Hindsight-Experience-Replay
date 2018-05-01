@@ -4,11 +4,12 @@ OpenAI's Mar 2018 request for research highlighted the research trajectory of co
 
 Requires baselines, which can be installed here: https://github.com/openai/baselines
 
-## Combinations
+## TODO
 
-* Deep Q-Learning with HER (HER-DQN) 
-* Deep Deterministic Policy Gradients with HER (HER-DDPG) 
-* Proximal Policy Optimization with HER (HER-PPO)
+- [ ]Combine PPO with experience replay
+- [ ]Add IPG
+- [ ]Build HER roadmap based on paper
+- [ ]Extend to hindsight experience replay
 
 ## Resources
 
